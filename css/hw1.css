@@ -1,0 +1,87 @@
+body {
+
+    font-size: 1.4em;
+    font-family: helvetica;
+
+}
+
+header {
+    padding: 20px 10px 15px 10px;
+    background-color: #3fb0ac;
+    background-image: url("../images/tranqui.png");
+    color: #ffffff;
+    text-transform: uppercase;
+    background-size: 40%;
+    text-align: center;
+    width: 100%;
+    background-size: 90%;
+}
+
+nav a {
+    display: inline-block;
+    margin: 5px 30px 30px 30px;
+    border-radius: 7px;
+    text-decoration: none;
+    padding: 10px;
+    width: 15%;
+    color: black;
+}
+h1{
+    color: #f9fcfa;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1.8em;
+}
+
+h2 {
+    color: #4e4e4e;
+    text-transform: uppercase;
+    font-size: 1.3em;
+}
+
+.right {
+    display: inline-block;
+
+    width: 70%;
+    padding: 0 0 10px 30px;
+
+}
+
+.left {
+    display: inline-block;
+    float: left;
+    width: 22%;
+    background: #d7517f;
+    padding: 20px;
+
+}
+
+video{
+    width: 100%;
+    text-align: left;
+
+}
+
+a {
+    background: #d4ee1a;
+    color: #171717;
+    text-align: center;
+}
+
+.active {
+    background: white;
+    color: #030303;
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 95%;
+    border: 2px solid white;
+    margin: 10px auto 30px auto;
+}
+
+.images {
+    width:32%;
+    /*border: 2pt green groove;*/
+}
